@@ -1,0 +1,12 @@
+*
+{
+  font-family:"STARWARS";
+  color: yellow;
+}
+body{
+  background-image: url(images/space.jpg);
+  text-align: center;
+}
+ol{
+  text-align: left;
+}
